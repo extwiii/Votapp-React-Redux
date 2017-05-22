@@ -17,7 +17,8 @@ Features
 
 Prerequisites
 -------------
-- This is the second part of Vaotapp-Redux project, before you start from here you need to set up [Votapp-React-Redux]() project.
+- This is the second part of Votapp-React-Redux project, before you start from here you need to set up [Votapp-Node-Redux](https://github.com/extwiii/Votapp-Node-Redux) project.
+- Please use this project while your Votapp-Node-Redux server is running.
 
 
 Getting Started
@@ -38,7 +39,7 @@ npm install
 # Simply build your app to dist
 webpack
 
-## Do not forget to run your server before start your app. Please check Prerequisites . ## 
+## Do not forget to run your server before start your Votapp-React-Redux app. Please check Prerequisites . ## 
 
 # Then start your app 
 npm run start
@@ -51,7 +52,7 @@ Changelog
 ---------
 
 ### 1.0.0 (21 May, 2017)
-- First version of votapp
+- First version of Votapp-React-Redux
 
 Contributing
 ------------
