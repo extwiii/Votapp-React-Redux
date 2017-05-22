@@ -17,7 +17,7 @@ Features
 
 Prerequisites
 -------------
-- This is the second part of Votapp-React-Redux project, before you start from here you need to set up [Votapp-Node-Redux](https://github.com/extwiii/Votapp-Node-Redux) project.
+- This is the second part of Votapp-Redux project, before you start from here you need to set up [Votapp-Node-Redux](https://github.com/extwiii/Votapp-Node-Redux) project.
 - Please use this project while your Votapp-Node-Redux server is running.
 
 
